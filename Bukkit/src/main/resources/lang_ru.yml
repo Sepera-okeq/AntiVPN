@@ -16,7 +16,7 @@ general:
   load: "<c2>[</c2><c3>Версия</c3> {version}<c2>] [</c2>{commands} <c6>Команды</c6><c2>] [</c2>{events} <c7>Ивенты</c7><c2>] [</c2>{tasks} <c8>Цель</c8><c2>]</c2>"
   hook_enable: "<c4>Включение поддержки</c4> {plugin}"
   hook_disable: "{plugin} <c2>не был найден. Поддержка для него была отключена.</c2>"
-  update: "(Bukkit) <c3>Доступно</c3> <c4>обновление</c4> <c3>Обновитесь..</c3> Новая версия: <c2>{version}</c2>"
+  update: "(Bukkit) <c3>Доступно</c3> <c4>обновление</c4> <c3>плагина</c3> Новая версия: <c2>{version}</c2>"
 
 error:
   internal: "Внутренняя ошибка/Internal error"
